@@ -35,3 +35,6 @@ The Employee Management System is designed to handle basic employee and departme
    ```bash
    git clone git@github.com:anaz-payet/Employee-Management-System.git
    cd Employee-Management-System
+password: 38d6aa86-f25b-4a17-9ecc-65655c085335
+username: user
+localhost:3001
